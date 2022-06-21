@@ -4,7 +4,7 @@
 
 Projeto feito na **UNIVERSIDADE NOVE DE JULHO** na aula de **Modelagem e Desenvolvimento Orientado A Objetos** e **Projeto em Desenvolvimento de Sistemas**, administradas pelo professor ***Evandro Teruel***.<br/><br/>
 
-O objetivo do projeto era desenvolver um software qualquer em Java com o pré-requisito de uma integração com o banco de dados MySQL.
+O objetivo do projeto era desenvolver um software simples e qualquer em Java, com o pré-requisito de uma integração ao banco de dados MySQL.
 
 
 ## Ferramentas e Tecnologias Usadas
