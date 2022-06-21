@@ -7,5 +7,5 @@ Projeto feito na **UNIVERSIDADE NOVE DE JULHO** na aula de **Modelagem e Desenvo
 O objetivo do projeto era desenvolver um software simples e qualquer em Java, com o pré-requisito de uma integração ao banco de dados MySQL.
 
 
-## Ferramentas e Tecnologias Usadas
+## 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="72" height="72"/>
